@@ -1,0 +1,19 @@
+# Model weights
+*.pt
+*.pth
+
+# Training run artifacts
+runs/
+
+# Downloaded datasets
+Mask-Wearing-*/
+Face-Mask-Detection*/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
